@@ -69,8 +69,4 @@ The analysis requires a CSV file named `genomic_data.csv` containing genomic dat
 
 
 
-[Add author information here]
 
-## Acknowledgments
-
-- [Add any acknowledgments here]
