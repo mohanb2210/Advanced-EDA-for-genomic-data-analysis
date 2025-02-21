@@ -67,15 +67,7 @@ The analysis requires a CSV file named `genomic_data.csv` containing genomic dat
 - Pairplot for feature relationships
 - GC content distribution (if applicable)
 
-## Contributing
 
-Feel free to fork this repository and submit pull requests to contribute to this project.
-
-## License
-
-[Add your chosen license here]
-
-## Author
 
 [Add author information here]
 
